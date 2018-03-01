@@ -1,0 +1,15 @@
+.DS_Store
+/*
+!.gitignore
+!wp-content/
+wp-content/*
+
+!wp-content/themes/
+!wp-content/plugins/
+
+wp-content/themes/*
+wp-content/plugins/*
+
+!wp-content/themes/twentyseventeen
+!wp-content/themes/starter
+!wp-content/themes/skelton
